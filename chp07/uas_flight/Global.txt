@@ -1,0 +1,2 @@
+13:32:45 : Console log file successfuly opened
+13:32:45 : === New session : Tue Jun 4 13:32:45 2013 ===
