@@ -1,0 +1,330 @@
+13:33:12 : Console log file successfuly opened
+13:33:12 : === New session : Tue Jun 4 13:33:12 2013 ===
+13:33:12 : Robot created swinglet_cam_0
+13:33:13 : En route to home waypoint
+13:33:13 : Idle (ready to take off)
+13:37:22 : Log file swinglet_cam_0_0.log successfully openned.
+13:37:22 : Taking off
+13:37:27 : En route to home waypoint
+13:37:40 : En route to waypoint 1
+13:38:00 : En route to waypoint 2
+13:38:02 : Taking photo #1
+13:38:06 : En route to waypoint 2
+13:38:08 : Taking photo #2
+13:38:12 : En route to waypoint 2
+13:38:15 : Taking photo #3
+13:38:19 : En route to waypoint 2
+13:38:20 : Taking photo #4
+13:38:24 : En route to waypoint 2
+13:38:25 : Taking photo #5
+13:38:29 : En route to waypoint 2
+13:38:30 : Taking photo #6
+13:38:34 : En route to waypoint 2
+13:38:34 : Taking photo #7
+13:38:38 : En route to waypoint 2
+13:38:39 : Taking photo #8
+13:38:43 : En route to waypoint 2
+13:38:43 : Taking photo #9
+13:38:47 : En route to waypoint 2
+13:38:52 : Taking photo #10
+13:38:55 : En route to waypoint 2
+13:39:03 : En route to waypoint 3
+13:39:05 : Taking photo #11
+13:39:09 : En route to waypoint 3
+13:39:13 : Taking photo #12
+13:39:17 : Taking photo #13
+13:39:21 : En route to waypoint 3
+13:39:21 : Taking photo #14
+13:39:26 : En route to waypoint 3
+13:39:31 : En route to waypoint 4
+13:39:33 : Taking photo #15
+13:39:37 : En route to waypoint 4
+13:39:38 : Taking photo #16
+13:39:42 : Taking photo #17
+13:39:46 : En route to waypoint 4
+13:39:48 : Taking photo #18
+13:39:51 : Taking photo #19
+13:39:56 : Taking photo #20
+13:40:00 : En route to waypoint 4
+13:40:00 : Taking photo #21
+13:40:04 : En route to waypoint 4
+13:40:04 : Taking photo #22
+13:40:08 : En route to waypoint 4
+13:40:09 : Taking photo #23
+13:40:13 : En route to waypoint 4
+13:40:14 : Taking photo #24
+13:40:18 : En route to waypoint 4
+13:40:26 : En route to waypoint 5
+13:40:28 : Taking photo #25
+13:40:32 : En route to waypoint 5
+13:40:35 : Taking photo #26
+13:40:39 : Taking photo #27
+13:40:43 : En route to waypoint 5
+13:40:55 : En route to waypoint 6
+13:40:57 : Taking photo #28
+13:41:01 : En route to waypoint 6
+13:41:01 : Taking photo #29
+13:41:05 : En route to waypoint 6
+13:41:06 : Taking photo #30
+13:41:10 : En route to waypoint 6
+13:41:10 : Taking photo #31
+13:41:14 : En route to waypoint 6
+13:41:15 : Taking photo #32
+13:41:19 : En route to waypoint 6
+13:41:20 : Taking photo #33
+13:41:25 : Taking photo #34
+13:41:28 : En route to waypoint 6
+13:41:29 : Taking photo #35
+13:41:33 : En route to waypoint 6
+13:41:34 : Taking photo #36
+13:41:38 : En route to waypoint 6
+13:41:39 : Taking photo #37
+13:41:43 : En route to waypoint 6
+13:41:49 : En route to waypoint 7
+13:41:57 : Taking photo #38
+13:42:01 : Taking photo #39
+13:42:05 : Taking photo #40
+13:42:09 : En route to waypoint 7
+13:42:18 : En route to waypoint 8
+13:42:19 : Taking photo #41
+13:42:24 : En route to waypoint 8
+13:42:25 : Taking photo #42
+13:42:29 : En route to waypoint 8
+13:42:30 : Taking photo #43
+13:42:34 : En route to waypoint 8
+13:42:34 : Taking photo #44
+13:42:38 : En route to waypoint 8
+13:42:39 : Taking photo #45
+13:42:43 : En route to waypoint 8
+13:42:44 : Taking photo #46
+13:42:47 : En route to waypoint 8
+13:42:48 : Taking photo #47
+13:42:52 : En route to waypoint 8
+13:42:53 : Taking photo #48
+13:42:57 : En route to waypoint 8
+13:42:58 : Taking photo #49
+13:43:02 : En route to waypoint 8
+13:43:10 : En route to waypoint 9
+13:43:17 : Taking photo #50
+13:43:21 : Taking photo #51
+13:43:25 : Taking photo #52
+13:43:29 : Taking photo #53
+13:43:33 : En route to waypoint 9
+13:43:38 : En route to waypoint 10
+13:43:40 : Taking photo #54
+13:43:44 : En route to waypoint 10
+13:43:45 : Taking photo #55
+13:43:49 : En route to waypoint 10
+13:43:49 : Taking photo #56
+13:43:53 : Taking photo #57
+13:43:57 : Taking photo #58
+13:44:01 : Taking photo #59
+13:44:05 : Taking photo #60
+13:44:10 : Taking photo #61
+13:44:14 : En route to waypoint 10
+13:44:22 : En route to waypoint 11
+13:44:26 : Taking photo #62
+13:44:30 : Taking photo #63
+13:44:34 : En route to waypoint 11
+13:44:41 : En route to waypoint 12
+13:44:43 : Taking photo #64
+13:44:47 : Taking photo #65
+13:44:51 : Taking photo #66
+13:44:55 : En route to waypoint 12
+13:45:00 : Taking photo #67
+13:45:04 : Taking photo #68
+13:45:08 : Taking photo #69
+13:45:12 : Taking photo #70
+13:45:16 : En route to waypoint 12
+13:45:19 : En route to waypoint 1
+13:45:39 : En route to waypoint 2
+13:45:41 : Taking photo #71
+13:45:45 : En route to waypoint 2
+13:45:46 : Taking photo #72
+13:45:50 : En route to waypoint 2
+13:45:51 : Taking photo #73
+13:45:55 : En route to waypoint 2
+13:45:56 : Taking photo #74
+13:46:00 : En route to waypoint 2
+13:46:01 : Taking photo #75
+13:46:05 : En route to waypoint 2
+13:46:06 : Taking photo #76
+13:46:10 : En route to home waypoint, due to strong wind warning
+13:46:43 : En route to home waypoint
+13:46:47 : En route to waypoint 1
+13:47:17 : En route to waypoint 2
+13:47:19 : Taking photo #77
+13:47:23 : En route to waypoint 2
+13:47:25 : Taking photo #78
+13:47:29 : En route to waypoint 2
+13:47:30 : Taking photo #79
+13:47:34 : En route to waypoint 2
+13:47:35 : Taking photo #80
+13:47:39 : En route to waypoint 2
+13:47:41 : Taking photo #81
+13:47:45 : En route to waypoint 2
+13:47:47 : Taking photo #82
+13:47:51 : En route to waypoint 2
+13:47:52 : Taking photo #83
+13:47:56 : En route to waypoint 2
+13:47:58 : Taking photo #84
+13:48:02 : En route to waypoint 2
+13:48:03 : Taking photo #85
+13:48:07 : En route to waypoint 2
+13:48:07 : Taking photo #86
+13:48:11 : En route to waypoint 2
+13:48:16 : En route to waypoint 3
+13:48:23 : Taking photo #87
+13:48:27 : Taking photo #88
+13:48:31 : Taking photo #89
+13:48:35 : Taking photo #90
+13:48:39 : En route to waypoint 3
+13:48:46 : En route to waypoint 4
+13:48:47 : Taking photo #91
+13:48:52 : En route to waypoint 4
+13:48:53 : Taking photo #92
+13:48:57 : En route to waypoint 4
+13:48:58 : Taking photo #93
+13:49:03 : En route to waypoint 4
+13:49:04 : Taking photo #94
+13:49:09 : En route to waypoint 4
+13:49:10 : Taking photo #95
+13:49:14 : En route to waypoint 4
+13:49:18 : Taking photo #96
+13:49:22 : Taking photo #97
+13:49:26 : En route to waypoint 4
+13:49:26 : Taking photo #98
+13:49:30 : En route to waypoint 4
+13:49:36 : En route to waypoint 5
+13:49:42 : Taking photo #99
+13:49:46 : En route to waypoint 5
+13:49:48 : Taking photo #100
+13:49:52 : En route to waypoint 5
+13:49:53 : Taking photo #101
+13:49:57 : Taking photo #102
+13:50:01 : En route to waypoint 5
+13:50:08 : En route to waypoint 6
+13:50:10 : Taking photo #103
+13:50:14 : En route to waypoint 6
+13:50:15 : Taking photo #104
+13:50:19 : En route to waypoint 6
+13:50:20 : Taking photo #105
+13:50:24 : En route to waypoint 6
+13:50:25 : Taking photo #106
+13:50:29 : En route to waypoint 6
+13:50:30 : Taking photo #107
+13:50:34 : En route to waypoint 6
+13:50:35 : Taking photo #108
+13:50:40 : En route to waypoint 6
+13:50:40 : Taking photo #109
+13:50:44 : En route to waypoint 6
+13:50:45 : Taking photo #110
+13:50:49 : En route to waypoint 6
+13:50:51 : Taking photo #111
+13:50:54 : En route to waypoint 6
+13:50:55 : Taking photo #112
+13:50:59 : En route to waypoint 6
+13:51:06 : En route to waypoint 7
+13:51:08 : Taking photo #113
+13:51:12 : Taking photo #114
+13:51:16 : Taking photo #115
+13:51:20 : En route to waypoint 7
+13:51:20 : Taking photo #116
+13:51:24 : Taking photo #117
+13:51:28 : Taking photo #118
+13:51:32 : Taking photo #119
+13:51:36 : En route to waypoint 7
+13:51:55 : En route to waypoint 8
+13:51:58 : Taking photo #120
+13:52:02 : En route to waypoint 8
+13:52:02 : Taking photo #121
+13:52:06 : En route to waypoint 8
+13:52:06 : Taking photo #122
+13:52:10 : Taking photo #123
+13:52:14 : Taking photo #124
+13:52:18 : En route to waypoint 8
+13:52:19 : Taking photo #125
+13:52:22 : Taking photo #126
+13:52:27 : En route to waypoint 8
+13:52:27 : Taking photo #127
+13:52:31 : En route to waypoint 8
+13:52:32 : Taking photo #128
+13:52:36 : En route to waypoint 8
+13:52:43 : En route to waypoint 9
+13:52:45 : Taking photo #129
+13:52:49 : En route to waypoint 9
+13:52:51 : Taking photo #130
+13:52:54 : Taking photo #131
+13:52:59 : Taking photo #132
+13:53:03 : Taking photo #133
+13:53:07 : En route to waypoint 9
+13:53:12 : En route to waypoint 10
+13:53:14 : Taking photo #134
+13:53:18 : En route to waypoint 10
+13:53:19 : Taking photo #135
+13:53:23 : En route to waypoint 10
+13:53:23 : Taking photo #136
+13:53:27 : En route to waypoint 10
+13:53:28 : Taking photo #137
+13:53:32 : En route to waypoint 10
+13:53:34 : Taking photo #138
+13:53:38 : En route to waypoint 10
+13:53:39 : Taking photo #139
+13:53:43 : En route to waypoint 10
+13:53:44 : Taking photo #140
+13:53:47 : En route to waypoint 10
+13:53:48 : Taking photo #141
+13:53:52 : En route to waypoint 10
+13:53:53 : Taking photo #142
+13:53:57 : Taking photo #143
+13:54:01 : En route to waypoint 10
+13:54:11 : En route to waypoint 11
+13:54:16 : Taking photo #144
+13:54:20 : En route to waypoint 11
+13:54:30 : En route to waypoint 12
+13:54:32 : Taking photo #145
+13:54:36 : Taking photo #146
+13:54:40 : En route to waypoint 12
+13:54:41 : Taking photo #147
+13:54:45 : Taking photo #148
+13:54:49 : Taking photo #149
+13:54:53 : En route to waypoint 12
+13:54:53 : Taking photo #150
+13:54:57 : En route to waypoint 12
+13:54:58 : Taking photo #151
+13:55:02 : En route to waypoint 12
+13:55:03 : Taking photo #152
+13:55:06 : Taking photo #153
+13:55:11 : Taking photo #154
+13:55:14 : En route to waypoint 12
+13:55:19 : En route to waypoint 1
+13:55:39 : En route to waypoint 2
+13:55:41 : Taking photo #155
+13:55:45 : En route to waypoint 2
+13:55:46 : Taking photo #156
+13:55:51 : Taking photo #157
+13:55:55 : En route to waypoint 2
+13:55:57 : Taking photo #158
+13:56:00 : En route to waypoint 2
+13:56:00 : Taking photo #159
+13:56:04 : En route to waypoint 2
+13:56:05 : Taking photo #160
+13:56:09 : En route to waypoint 2
+13:56:12 : Taking photo #161
+13:56:16 : En route to waypoint 11
+13:56:50 : En route to waypoint 12
+13:56:52 : Taking photo #162
+13:56:56 : En route to waypoint 12
+13:56:57 : Taking photo #163
+13:57:01 : En route to waypoint 12
+13:57:02 : Taking photo #164
+13:57:06 : Taking photo #165
+13:57:10 : En route to waypoint 12
+13:57:10 : Taking photo #166
+13:57:14 : Taking photo #167
+13:57:18 : En route to waypoint 12
+13:57:23 : En route to waypoint 1
+13:57:33 : En route to home waypoint
+13:58:12 : Landing on home waypoint
+13:58:59 : Log file closed.
+13:58:59 : Idle (ready to take off)
